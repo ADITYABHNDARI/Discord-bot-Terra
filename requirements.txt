@@ -1,4 +1,4 @@
-git+https://github.com/ADITYABHNDARI/Discord-bot-Terra
+git+https://github.com/ADITYABHNDARI/Discord-bot-Terra@rewrite
 async-timeout==3.0.1
 disord.py
 beautifulsoup
