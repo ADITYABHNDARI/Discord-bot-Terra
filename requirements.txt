@@ -1,5 +1,5 @@
 git+https://github.com/ADITYABHNDARI/Discord-bot-Terra
 async-timeout==3.0.1
 disord.py
-beautifulsoup4
+beautifulsoup
 google
